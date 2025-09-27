@@ -20,3 +20,5 @@ This guide will walk you through the process of creating a merge request. In man
 1. In real life you'd have reviewers and once approved you'd merge but in this case just click the Merge pull request button
    ![Merge PR](MergePR.png)
    ![Merged](Merged.png)
+
+And You're Done!!
