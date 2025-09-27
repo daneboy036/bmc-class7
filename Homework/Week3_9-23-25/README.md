@@ -23,3 +23,7 @@
 ## Be a Man 3.2
 
 - [Merge Request Walkthrough](<Make a Merge Request.md>)
+
+## Week 2 Lab (Connect via SSH to EC2)
+
+[Lab - Connect to EC2 with SSH](<../../Notes/Lab - Connect to EC2 w SSH.md>)
